@@ -4,7 +4,7 @@ You only look once (YOLO) is a state-of-the-art model that has been used extensi
 
 
 
-Note that this tutorial assumes you have Jetpack 4.6 installed on your Nvidia Jetson Nano device.  You can download the relevant JetPack from the official site [here]([JetPack SDK | NVIDIA Developer](https://developer.nvidia.com/embedded/jetpack#:~:text=NVIDIA%20JetPack%20SDK%20is%20the,to%2Dend%20accelerated%20AI%20applications.&text=It%20also%20includes%20samples%2C%20documentation,analytics%20and%20Isaac%20for%20robotics.))
+Note that this tutorial assumes you have Jetpack 4.6 installed on your Nvidia Jetson Nano device.  You can download the relevant JetPack from the official site [JetPack SDK | NVIDIA Developer](https://developer.nvidia.com/embedded/jetpack#:~:text=NVIDIA%20JetPack%20SDK%20is%20the,to%2Dend%20accelerated%20AI%20applications.&text=It%20also%20includes%20samples%2C%20documentation,analytics%20and%20Isaac%20for%20robotics.)
 
 ![car.gif](images/car.gif)
 
