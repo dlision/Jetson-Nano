@@ -75,7 +75,7 @@ This will generate an executable file **main** and a library file **liblayerplug
 
 ## Weights
 
-Next, we download the model weights from the [relevant repository](https://github.com/isarsoft/yolov4-triton-tensorrt). These weights are provided in the public google drive link [here]([YOLOv4 Weights (PUBLIC) – Google Drive](https://drive.google.com/drive/folders/1YUDVgEefnk2HENpGMwq599Yj45i_7-iL)).
+Next, we download the model weights from the [relevant repository](https://github.com/isarsoft/yolov4-triton-tensorrt). These weights are provided in the public google drive link [YOLOv4 Weights (PUBLIC) – Google Drive](https://drive.google.com/drive/folders/1YUDVgEefnk2HENpGMwq599Yj45i_7-iL).
 
 
 
