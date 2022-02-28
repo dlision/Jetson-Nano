@@ -18,7 +18,7 @@ sudo docker pull nvcr.io/nvidia/l4t-ml:r32.6.1-py3
 
 ## YoloV4
 
-**Acknowledgements:** Next, we make use of this [Yolov4 model for TensorRT](https://github.com/isarsoft/yolov4-triton-tensorrt). This repository shows how to run this model on the Triton Inference Server for x86 architecture. We will use this as our foundation and showcase running this model and calling inference on Jetson Nano instead.
+**Acknowledgements:** Next, we make use of this [Yolov4 model for TensorRT](https://github.com/isarsoft/yolov4-triton-tensorrt) which shows how to run this model on the Triton Inference Server for x86 architecture. We will use this as our foundation and showcase running the model and calling inference on Jetson Nano instead.
 
 ```bash
 sudo git clone https://github.com/isarsoft/yolov4-triton-tensorrt.git
@@ -126,6 +126,6 @@ python client.py -o ./car_result.mp4 video /data/car.mp4
 
 ## Acknowledgements
 
-The foundational code is taken from the github repository [here](https://github.com/isarsoft/yolov4-triton-tensorrt). This repo showcases how to deploy a YOLO model on Triton Server for the x86 architecture. 
+The foundational code is taken from the github repository [here](https://github.com/isarsoft/yolov4-triton-tensorrt) which showcases how to deploy a YOLO model on Triton Server for the x86 architecture. 
 
 We make use of this foundational code to show how to deploy the same model instead on Jetson Nano.
